@@ -1,0 +1,10 @@
+{
+  "display_name": "New Skill",
+  "description": "nkaks",
+  "type": "skill",
+  "status": "under_review",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": []
+}
