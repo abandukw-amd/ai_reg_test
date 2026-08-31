@@ -1,0 +1,11 @@
+{
+  "display_name": "First skill that becomes a PR",
+  "description": "PR Request Test",
+  "type": "skill",
+  "status": "under_review",
+  "author": "Alizain",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": []
+}
