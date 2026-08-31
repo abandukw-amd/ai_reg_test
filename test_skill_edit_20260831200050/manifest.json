@@ -1,0 +1,15 @@
+{
+  "display_name": "Test Skill",
+  "description": "A dummy skill used for testing the SIP marketplace upload flow.",
+  "type": "skill",
+  "category": "testing",
+  "status": "under_review",
+  "author": "Test Author",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [
+    "test"
+  ],
+  "name": "Test Skill"
+}
