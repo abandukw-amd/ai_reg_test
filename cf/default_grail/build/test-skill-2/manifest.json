@@ -1,0 +1,14 @@
+{
+  "display_name": "Test Skill 2",
+  "description": "Hello this is a test",
+  "type": "skill",
+  "category": "default_grail/build",
+  "team": "cf",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Test Skill 2",
+  "source_path": "cf/default_grail/build/test-skill-2",
+  "status": "under_review"
+}
