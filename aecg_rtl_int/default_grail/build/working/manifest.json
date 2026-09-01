@@ -1,0 +1,14 @@
+{
+  "display_name": "Working",
+  "description": "Work",
+  "type": "skill",
+  "team": "aecg_rtl_int",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Working",
+  "flow_type": "default_grail/build",
+  "source_path": "aecg_rtl_int/default_grail/build/working",
+  "status": "under_review"
+}
