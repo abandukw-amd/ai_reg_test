@@ -1,0 +1,14 @@
+{
+  "display_name": "Checkin part",
+  "description": "aksnk",
+  "type": "skill",
+  "category": "",
+  "team": "aecg_rtl_int",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Checkin part",
+  "source_path": "aecg_rtl_int/checkin-part",
+  "status": "under_review"
+}
