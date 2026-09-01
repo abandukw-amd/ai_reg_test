@@ -1,0 +1,14 @@
+{
+  "display_name": "New Skill",
+  "description": "Testing",
+  "type": "skill",
+  "team": "cf",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "New Skill",
+  "flow_type": "default_grail/build",
+  "source_path": "cf/default_grail/build/new-skill",
+  "status": "under_review"
+}
