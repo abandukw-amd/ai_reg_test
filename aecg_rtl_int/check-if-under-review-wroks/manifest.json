@@ -1,0 +1,14 @@
+{
+  "display_name": "Check if under review wroks",
+  "description": "Chekcing",
+  "type": "skill",
+  "category": "",
+  "team": "aecg_rtl_int",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Check if under review wroks",
+  "source_path": "aecg_rtl_int/check-if-under-review-wroks",
+  "status": "under_review"
+}
