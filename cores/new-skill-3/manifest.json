@@ -1,0 +1,14 @@
+{
+  "display_name": "New SKill 3",
+  "description": "aasa",
+  "type": "skill",
+  "category": "",
+  "team": "cores",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "New SKill 3",
+  "source_path": "cores/new-skill-3",
+  "status": "under_review"
+}
