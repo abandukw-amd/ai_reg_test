@@ -1,0 +1,14 @@
+{
+  "display_name": "Tesitng Log",
+  "description": "Log time",
+  "type": "skill",
+  "category": "",
+  "team": "df",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Tesitng Log",
+  "source_path": "df/tesitng-log",
+  "status": "under_review"
+}
