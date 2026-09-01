@@ -1,0 +1,14 @@
+{
+  "display_name": "New Stageing",
+  "description": "New stuff",
+  "type": "skill",
+  "category": "default_grail/sim",
+  "team": "dfd",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "New Stageing",
+  "source_path": "dfd/default_grail/sim/new-stageing",
+  "status": "under_review"
+}
