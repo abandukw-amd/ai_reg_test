@@ -1,0 +1,18 @@
+{
+  "display_name": "Test Skill",
+  "description": "A dummy skill used for testing the SIP marketplace upload flow.",
+  "type": "skill",
+  "category": "testing",
+  "team": "cf",
+  "author": "Test Author",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [
+    "test"
+  ],
+  "name": "Test Skill",
+  "flow_type": "default_grail/build",
+  "source_path": "cf/default_grail/build/test-skill",
+  "status": "under_review"
+}
