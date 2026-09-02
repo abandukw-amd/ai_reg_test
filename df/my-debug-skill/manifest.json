@@ -1,0 +1,14 @@
+{
+  "display_name": "My Debug Skill",
+  "description": "This skill is used for debugging",
+  "type": "skill",
+  "category": "",
+  "team": "df",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "My Debug Skill",
+  "source_path": "df/my-debug-skill",
+  "status": "under_review"
+}
