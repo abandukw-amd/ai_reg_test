@@ -1,0 +1,14 @@
+{
+  "display_name": "Testing Under Review",
+  "description": "THis is a new one",
+  "type": "skill",
+  "category": "",
+  "team": "aecg_rtl_int",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Testing Under Review",
+  "source_path": "aecg_rtl_int/testing-under-review",
+  "status": "under_review"
+}
