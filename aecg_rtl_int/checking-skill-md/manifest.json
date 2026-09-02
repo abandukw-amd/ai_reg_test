@@ -1,0 +1,14 @@
+{
+  "display_name": "Checking SKILL.md",
+  "description": "Helllo",
+  "type": "skill",
+  "category": "",
+  "team": "aecg_rtl_int",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Checking SKILL.md",
+  "source_path": "aecg_rtl_int/checking-skill-md",
+  "status": "under_review"
+}
