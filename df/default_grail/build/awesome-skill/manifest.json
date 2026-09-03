@@ -1,0 +1,17 @@
+{
+  "display_name": "awesome_skill",
+  "description": "My Awesome Skill",
+  "type": "skill",
+  "category": "default_grail/build",
+  "team": "df",
+  "author": "AliB",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [
+    "Awesomeness"
+  ],
+  "tags": [],
+  "name": "awesome_skill",
+  "source_path": "df/default_grail/build/awesome-skill",
+  "status": "under_review"
+}
