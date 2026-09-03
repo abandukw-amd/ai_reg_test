@@ -1,0 +1,14 @@
+{
+  "display_name": "New Skill",
+  "description": "This is from atl15",
+  "type": "skill",
+  "category": "",
+  "team": "cores",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "New Skill",
+  "source_path": "cores/new-skill",
+  "status": "under_review"
+}
