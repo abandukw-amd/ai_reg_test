@@ -1,0 +1,14 @@
+{
+  "display_name": "Skill Two",
+  "description": "Testing",
+  "type": "skill",
+  "category": "",
+  "team": "cf",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Skill Two",
+  "source_path": "cf/skill-two",
+  "status": "under_review"
+}
