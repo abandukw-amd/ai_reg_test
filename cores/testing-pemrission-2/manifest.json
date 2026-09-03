@@ -1,0 +1,14 @@
+{
+  "display_name": "Testing Pemrission 2",
+  "description": "al",
+  "type": "skill",
+  "category": "",
+  "team": "cores",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Testing Pemrission 2",
+  "source_path": "cores/testing-pemrission-2",
+  "status": "under_review"
+}
