@@ -1,0 +1,14 @@
+{
+  "display_name": "Testing Pemrission",
+  "description": "ak",
+  "type": "skill",
+  "category": "",
+  "team": "cf",
+  "version": "1.0.0",
+  "entry_point": "SKILL.md",
+  "dependencies": [],
+  "tags": [],
+  "name": "Testing Pemrission",
+  "source_path": "cf/testing-pemrission",
+  "status": "under_review"
+}
